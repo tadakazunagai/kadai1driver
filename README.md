@@ -11,7 +11,7 @@
 
 * GPIOを2ピン使用
 * カーネルタイマーを使用
-* 説明動画：![](https://youtu.be/ZKJeC-swZsU)
+* [説明動画](https://youtu.be/ZKJeC-swZsU)
 
 ## 参考文献
 
