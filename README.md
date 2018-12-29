@@ -7,6 +7,11 @@
 
 * ロボットシステム学―課題１：Linux device driverの書き方勉強用コード
 
+## 計算機環境
+
+* Raspberry Pi 3 Model B
+* Ubuntu 16.04.5 LTS
+
 ## 講義のドライバーに追加した機能
 
 * GPIOを2ピン使用
